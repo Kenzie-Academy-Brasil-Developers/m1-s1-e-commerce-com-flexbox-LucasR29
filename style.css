@@ -61,7 +61,6 @@ body{
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-
 }
 
 .card-button{
@@ -83,7 +82,7 @@ body{
     flex-direction: column;
     max-width: 24%;
     background-color: white;
-    margin-top: 10px;
+    margin-bottom: 16px;
 }
 
 img{
@@ -94,4 +93,10 @@ img{
 
 .products p{
     margin-left: 5px;
+}
+
+.imagem{
+    max-height: 168px;
+    max-width: 168px;
+    padding: 6px;
 }
